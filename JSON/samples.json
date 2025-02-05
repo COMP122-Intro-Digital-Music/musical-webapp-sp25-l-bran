@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Rap beat",
+    "file": "samples/Extreme-Sport-Trap-Music-PISTA(chosic.com).mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Slow lofi beat",
+    "file": "samples/And-So-It-Begins-Inspired-By-Crush-Sometimes(chosic.com).mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Dancy music",
+    "file": "samples/Luke-Bergs-Bliss(chosic.com).mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
