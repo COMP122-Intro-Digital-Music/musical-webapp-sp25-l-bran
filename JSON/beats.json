@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "audio 1",
+    "pitch": "C4",
+    "pattern": "0010000100"
+  },
+  {
+    "name": "audio 2",
+    "pitch": "B3",
+    "pattern": "1000001"
+  },
+  {
+    "name": "audio 3",
+    "pitch": "E4",
+    "pattern": "1001"
+  },
+  {
+    "name": "audio 4",
+    "pitch": "D#4",
+    "pattern": "1000001000001000001"
+  }
+]
